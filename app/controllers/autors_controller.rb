@@ -3,7 +3,7 @@ class AutorsController < ApplicationController
 
   # GET /autors or /autors.json
   def index
-    @autors = Autor.all
+    @autors = Autor.where(active: true)
   end
 
   # GET /autors/1 or /autors/1.json

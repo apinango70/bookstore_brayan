@@ -1,0 +1,21 @@
+publisher_id,name,description,active
+1,Harper & Brothers,An established publisher with a rich history,false
+2,Penguin Press,A leader in literary fiction and non-fiction,false
+3,Random House,A major multinational publishing company,true
+4,Macmillan Publishers,Known for educational and academic publications,false
+5,Simon & Schuster,A prominent publisher in adult and children's books,false
+6,Hachette Book Group,One of the largest publishers in the world,false
+7,Springer Publishing,Publisher specializing in science and technology,false
+8,Oxford University Press,World-renowned academic and educational publisher,false
+9,Wiley Publishing,Specializes in academic and professional books,false
+10,Pearson Publishing,Global leader in education and learning materials,false
+11,Bantam Books,Known for publishing popular fiction and non-fiction,true
+12,Pantheon Books,Focuses on quality literary translations and classics,false
+13,Candlewick Press,Children's book publisher with award-winning titles,false
+14,Tor Books,Leading publisher in science fiction and fantasy,true
+15,Faber & Faber,Noted publisher of poetry and literary fiction,false
+16,Grove Press,Publisher of avant-garde literature and political titles,true
+17,Scholastic Press,World's largest publisher of children's books,false
+18,Orion Publishing,General publisher with a wide range of titles,false
+19,Chronicle Books,Innovative publisher known for its design,true
+20,Bloomsbury Publishing,Literary publisher famous for the Harry Potter series,true

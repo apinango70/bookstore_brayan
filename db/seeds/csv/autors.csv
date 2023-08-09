@@ -1,0 +1,21 @@
+autor_id,name,age,nationality,active
+1,John Doe,34,Estadounidense,true
+2,Jane Smith,45,Británica,true
+3,Albert Thompson,55,Canadiense,false
+4,Maria Johnson,28,Mexicana,false
+5,Henry White,62,Australiana,true
+6,Emily Adams,37,Irlandesa,true
+7,James Wilson,48,Sudafricana,false
+8,Sara Davis,42,Francesa,false
+9,William Lee,51,Japonesa,true
+10,Linda Taylor,29,Alemana,true
+11,Charles Anderson,67,Italiana,false
+12,Sophia Harris,53,China,false
+13,Jacob Clark,41,Brasileña,true
+14,Emma Lewis,36,India,true
+15,Michael Hall,49,Rusa,false
+16,Olivia Walker,26,Argentina,false
+17,David Wright,39,Sueca,true
+18,Isabella King,32,Española,true
+19,Joseph Scott,57,Portuguesa,false
+20,Mia Turner,46,Noruega,false

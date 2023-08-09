@@ -5,12 +5,26 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
-
     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
     <%= javascript_importmap_tags %>
   </head>
-
-  <body>
+  <body class="container">
+    <nav>
+      <ul>
+        <li><%= link_to "Home", root_path %></li>
+        <li>
+          <%= link_to "New Book", new_book_path %>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <%= link_to "Publishers", publishers_path %>
+        </li>
+        <li>
+          <%= link_to "Autors", autors_path %>
+        </li>
+      </ul>
+    </nav>
     <%= yield %>
   </body>
 </html>
