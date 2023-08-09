@@ -1,0 +1,21 @@
+# == Schema Information
+#
+# Table name: books
+#
+#  id           :bigint           not null, primary key
+#  name         :string
+#  publisher_id :bigint           not null
+#  autor_id     :bigint           not null
+#  created_at   :datetime         not null
+#  updated_at   :datetime         not null
+#
+
+one:
+  name: MyString
+  publisher: one
+  autor: one
+
+two:
+  name: MyString
+  publisher: two
+  autor: two
